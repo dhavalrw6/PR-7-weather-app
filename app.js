@@ -1,4 +1,5 @@
 // Replace this with your OpenWeather API key
+// hello js dev
 const apiKey = "1457687c876a3bb73f2d9a41bc64a5ea";
 
 async function getWeather() {
